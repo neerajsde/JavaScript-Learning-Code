@@ -7,7 +7,7 @@ function CreateRectangle(len, bred){
             console.log('Drawing');
         }
     }
-}
+}   
 
 let obj1 = new CreateRectangle(4, 7);
 obj1.draw();
